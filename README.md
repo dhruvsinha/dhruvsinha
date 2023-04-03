@@ -1,4 +1,4 @@
-## [Dhruv Sinha👋]
+## Dhruv Sinha👋
 
 ### About Me
 
