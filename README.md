@@ -6,7 +6,7 @@ I am thrilled to be pursuing a Master's degree in Computer Science and Public Po
 
 At the University of Chicago, I am learning advanced techniques for modeling and analyzing data to create innovative solutions for important social concerns. I am passionate about leveraging technology to create positive change in society, and I am excited to use my skills to tackle real-world problems.
 
-I am set to graduate in May 2023 and am actively seeking full-time opportunities in Data Science and Data Engineering in the US. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvsinha1998/) to learn more about my experience and qualifications.
+I am set to graduate in May 2023 and am actively seeking full-time opportunities in Data Science and Data Engineering. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dhruvsinha1998/) to learn more about my experience and qualifications.
 
 
 ### Current Work
@@ -19,4 +19,6 @@ I am currently working part-time as a Machine Learning Researcher at the Data, I
 * Databases- SQL, Athena, Pandas, Spark Dataframes
 * Machine Learning- Pytorch, Tensorflow, Keras, Computer Vision, Natural Language Processing, Graph Convolution, Network
 * Programming Skills- OOP, Algorithms, Parallel Programming, CUDA
-* 
+* Big Data- Spark, HDFS
+* Econometrics and Statistics- Causal Inference, Hypothesis Testing
+* Other- Docket, Git, Linux, Airflow, Flask, Google Cloud
