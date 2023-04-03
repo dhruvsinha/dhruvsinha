@@ -1,5 +1,4 @@
-## [Dhruv Sinha👋](https://github.com/PrudhviGNV)
-
+## [Dhruv Sinha👋](https://github.com/dhruvsinha)
 
 <a href="https://www.linkedin.com/in/dhruvsinha1998/">
   <img align="left" alt="Dhruvs's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
