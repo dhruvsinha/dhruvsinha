@@ -1,13 +1,13 @@
 ## [Dhruv Sinha👋](https://github.com/dhruvsinha)
 
-<a href="https://www.linkedin.com/in/dhruvsinha1998/">
-  <img align="left" alt="Dhruvs's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
 ### About Me
 
-I am currently pursuing a Master's in Computer Science and Public Policy from the University of Chicago. 
+I am currently pursuing a Master's in Computer Science and Public Policy from the University of Chicago. I finished my undergraduate in 2020 from Ashoka University in New Delhi, where I studied Economics, Mathematics, and Computer Science. Through my coursework in economics, statistics, machine learning, cloud computing, and artificial intelligence policy, I have gained a solid foundation in using technology to address complex social issues. At UChicago, I am learning exactly what I want to learn- quantitatively modeling of data to devise models that solve important social concerns. Please feel free to connect with me over linkeIn 
+<a href="https://www.linkedin.com/in/prudhvignv/">
+  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+### Curr
 <!--
 **dhruvsinha/dhruvsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
