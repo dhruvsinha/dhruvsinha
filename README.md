@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey 👋, I'm [Dhruv!](https://github.com/PrudhviGNV)
 
+
+<a href="https://www.linkedin.com/in/dhruvsinha1998/">
+  <img align="left" alt="Dhruvs's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <!--
 **dhruvsinha/dhruvsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
