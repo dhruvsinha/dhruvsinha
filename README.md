@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Dhruv!](https://github.com/PrudhviGNV)
+## [Dhruv Sinha👋](https://github.com/PrudhviGNV)
 
 
 <a href="https://www.linkedin.com/in/dhruvsinha1998/">
