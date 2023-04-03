@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am thrilled to be pursuing a Master's degree in Computer Science and Public Policy from the University of Chicago, building on the strong foundation in Economics, Mathematics, and Computer Science that I developed during my undergraduate studies at Ashoka University in New Delhi. Through my coursework in economics, statistics, machine learning, cloud computing, and artificial intelligence policy, I have gained a solid foundation in using technology to address complex social issues.
+I am thrilled to be pursuing a Master's degree in Computer Science and Public Policy from the University of Chicago, building on the strong foundation in Economics, Mathematics, and Computer Science that I developed during my undergraduate studies at Ashoka University in New Delhi. Through my coursework in economics, statistics, machine learning, cloud computing, and artificial intelligence policy, I have gained a solid foundation in using technology to solve wide range social and financial problems that our is facing.
 
 At the University of Chicago, I am learning advanced techniques for modeling and analyzing data to create innovative solutions for important social concerns. I am passionate about leveraging technology to create positive change in society, and I am excited to use my skills to tackle real-world problems.
 
