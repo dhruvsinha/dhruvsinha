@@ -12,3 +12,11 @@ I am set to graduate in May 2023 and am actively seeking full-time opportunities
 ### Current Work
 I am currently working part-time as a Machine Learning Researcher at the Data, Infrastructure, Computation, and Environments ([DICE](https://dice.cs.depaul.edu/))  Lab in Chicago. At DICE, I am designed  a deep learning model that utilizes bi-directional Long Short-Term Memory Networks (LSTMs) and Graph Convolutional Networks (GCNs) to predict points of errors in the application that fails to complete a test run on containers. By analyzing the sequence of system calls, the model estimates the point of divergence between a successful and an unsuccessful run of the application. This significantly reduces the time complexity for error detection, from exponential to linear.
 
+### Skills
+
+* Programming Languages- Python, R, STATA, JAVA, Golang, HTML
+* Cloud: AWS (EC2, DynamoDB, Athena, Lambda, Glacier, Load Balancing, S3)
+* Databases- SQL, Athena, Pandas, Spark Dataframes
+* Machine Learning- Pytorch, Tensorflow, Keras, Computer Vision, Natural Language Processing, Graph Convolution, Network
+* Programming Skills- OOP, Algorithms, Parallel Programming, CUDA
+* 
