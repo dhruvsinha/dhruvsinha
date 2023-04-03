@@ -5,7 +5,10 @@
   <img align="left" alt="Dhruvs's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-#### About Me
+
+### About Me
+
+I am currently pursuing a Master's in Computer Science and Public Policy from the University of Chicago. 
 <!--
 **dhruvsinha/dhruvsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
