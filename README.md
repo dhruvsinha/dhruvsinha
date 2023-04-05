@@ -16,7 +16,7 @@ In addition to my research and academic work, I also run a small initiative call
 
 ### Skills
 
-* Programming Languages- Python, R, STATA, JAVA, Golang, HTML
+* Programming Languages- Python, R, STATA, JAVA, Golang, HTML, SQL 
 * Cloud: AWS (EC2, DynamoDB, Athena, Lambda, Glacier, Load Balancing, S3)
 * Databases- SQL, Athena, Pandas, Spark Dataframes
 * Machine Learning- Pytorch, Tensorflow, Keras, Computer Vision, Natural Language Processing, Graph Convolution Network
