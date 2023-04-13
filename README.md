@@ -19,8 +19,8 @@ In addition to my research and academic work, I also run a small initiative call
 * Programming Languages- Python, R, STATA, JAVA, Golang, HTML, SQL
 * Cloud: AWS (EC2, DynamoDB, Athena, Lambda, Glacier, Load Balancing, S3), Google Cloud
 * Databases- SQL, Athena, Pandas, Spark Dataframes
-* Machine Learning- Pytorch, Tensorflow, Keras, Computer Vision, Natural Language Processing, Graph Convolution Network
+* Machine Learning- Pytorch, TensorFlow, Keras, Computer Vision, Natural Language Processing, Graph Convolution Network
 * Programming Skills- OOP, Algorithms, Parallel Programming, CUDA
-* Big Data- Spark, HDFS
+* Big Data- PySpark, HDFS
 * Econometrics and Statistics- Causal Inference, Hypothesis Testing
 * Other- Docket, Git, Linux, Airflow, Flask
