@@ -31,3 +31,7 @@ I also run a non-profit initiative, **Paricharcha Education Foundation**, where 
 * Big Data- PySpark, HDFS
 * Econometrics and Statistics- Causal Inference, Hypothesis Testing
 * Other- Docket, Git, Linux, Airflow, Flask
+
+Contact
+📫 Email: dhruvsinha.09@gmail.com
+🌐 LinkedIn | GitHub
